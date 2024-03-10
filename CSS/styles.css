@@ -27,3 +27,11 @@ hr {
     border-width: 5px;
     width: 20%;
 }
+
+footer{
+    text-align: center;
+    padding: 5px;
+    background-color: #0000;
+    text-decoration: underline;
+
+}
